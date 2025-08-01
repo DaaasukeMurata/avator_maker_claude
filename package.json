@@ -1,0 +1,19 @@
+{
+  "name": "avatar-generator",
+  "version": "1.0.0",
+  "description": "シンプルなアバター生成器 - Renderデモ用",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["avatar", "generator", "svg", "demo"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
